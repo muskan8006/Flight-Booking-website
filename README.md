@@ -18,14 +18,6 @@ The project allows users to search for flights, fill booking details, and view c
 - *CSS3* for styling and layout
 - *JavaScript (Vanilla JS)* for interactivity
 
----
-
-## 📸 Screenshots
- 
-C:\Users\about\OneDrive\Documents\screenshot.png
-
----
-
 ## 🔗 Live Demo
 (Optional — if you enable GitHub Pages)  
 [Click Here to View](https://muskan8006.github.io/flight-booking-website/)
@@ -35,4 +27,4 @@ C:\Users\about\OneDrive\Documents\screenshot.png
 ## 📂 How to Run Locally
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/yourusername/flight-booking-website.git 
+   git clone https://github.com/muskan8006/flight-booking-website.git 
