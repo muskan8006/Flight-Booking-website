@@ -20,11 +20,11 @@ The project allows users to search for flights, fill booking details, and view c
 
 ## 🔗 Live Demo
 (Optional — if you enable GitHub Pages)  
-[Click Here to View](https://muskan8006.github.io/flight-booking-website/)
+[Click Here to View](https://github.com/muskan8006/Flight-Booking-website)
 
 ---
 
 ## 📂 How to Run Locally
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/muskan8006/flight-booking-website.git 
+   https://github.com/muskan8006/Flight-Booking-website
